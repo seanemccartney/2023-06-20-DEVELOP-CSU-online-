@@ -8,4 +8,4 @@ Version Control with Git
 Programming with Python
 Programming with R
 Geospatial Programming in Python
-Website: https://seanemccartney.github.io/2023-06-20-DEVELOP-CSU-online/
+Website: https://seanemccartney.github.io/2023-06-20-DEVELOP-CSU-online-/
